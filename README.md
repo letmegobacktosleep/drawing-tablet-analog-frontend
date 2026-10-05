@@ -1,8 +1,11 @@
 # Diode-Detector based Analog Frontend
 
-Warning: please read cl 6, Disclaimer and Liability, of the license.
+![3D View](drawing%20tablet%20analog%20frontend.png)
 
-This hardware has not been tested (yet) due to a lack of funds.
+### Warning: Please read cl 6 of the license
+
+This hardware has not been tested (yet) due to a lack of funds.<br>
+Sponsor me if you want it tested (つ✧ω✧)つ
 
 ## License
 
